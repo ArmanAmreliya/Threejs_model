@@ -14,14 +14,7 @@ A modern web application to display and interact with a 3D Pokéball model using
 ---
 - 📦 Loads GLTF 3D models (Pokéball example)
 
-</td>
-<td>
-
-<img src="./"" alt="3D Pokéball Preview" width="300"/>
-
-</td>
-</tr>
-</table>
+<img src="./preview.png" alt="3D Pokéball Preview" width="500"/>
 
 ## Getting Started
 
